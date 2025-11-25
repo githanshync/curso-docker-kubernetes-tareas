@@ -35,12 +35,12 @@ redis: imagen oficial
 ## Evidencia:
 Screenshot de docker ps mostrando el container corriendo:
 
-![container corriendo](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/docker-ps.png)
+![container corriendo](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/docker-ps.jpg)
 
 Screenshot del navegador (si es httpd) o salida de docker logs (si es redis/mysql):
 
-![docker logs](screenshots/redis-log.png)
+![docker logs]([screenshots](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/redis-log.jpg)
 
 Screenshot o salida mostrando que el container fue eliminado correctamente
 
-![limpieza](screenshots/limpieza-redis.png)
+![limpieza]([screenshots](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/limpieza-redis.jpg)

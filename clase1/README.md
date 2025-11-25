@@ -39,8 +39,10 @@ Screenshot de docker ps mostrando el container corriendo:
 
 Screenshot del navegador (si es httpd) o salida de docker logs (si es redis/mysql):
 
-![docker logs]([screenshots](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/redis-log.jpg)
+![docker logs](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/redis-log.jpg)
 
-Screenshot o salida mostrando que el container fue eliminado correctamente
+Screenshot o salida mostrando que el container fue eliminado correctamente:
 
-![limpieza]([screenshots](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/limpieza-redis.jpg)
+![limpieza redis](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/limpieza-redis.jpg)
+
+

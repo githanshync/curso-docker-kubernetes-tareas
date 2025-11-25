@@ -34,10 +34,10 @@ redis: imagen oficial
 
 ## Evidencia:
 Screenshot de docker ps mostrando el container corriendo:
-![container corriendo](clase1/screenshots/docker-ps.png)
+![container corriendo](screenshots/docker-ps.png)
 
 Screenshot del navegador (si es httpd) o salida de docker logs (si es redis/mysql):
-![docker logs](clase1/screenshots/redis-log.png)
+![docker logs](screenshots/redis-log.png)
 
 Screenshot o salida mostrando que el container fue eliminado correctamente
-![limpieza](clase1/screenshots/limpieza-redis.png)
+![limpieza](screenshots/limpieza-redis.png)

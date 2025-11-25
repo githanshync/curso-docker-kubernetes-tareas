@@ -1,5 +1,5 @@
 # Nombre de la aplicación - redis
----
+
 ## Comandos ejecutados - Todos los comandos que usaste, uno por uno:
 
 docker search redis
@@ -34,10 +34,7 @@ redis: imagen oficial
 
 ## Evidencia:
 Screenshot de docker ps mostrando el container corriendo:
-
 ![container corriendo](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/docker-ps.jpg)
-
-![container corriendo](screenshots/docker-ps.jpg)
 
 Screenshot del navegador (si es httpd) o salida de docker logs (si es redis/mysql):
 

@@ -43,6 +43,6 @@ Screenshot del navegador (si es httpd) o salida de docker logs (si es redis/mysq
 
 Screenshot o salida mostrando que el container fue eliminado correctamente:
 
-![limpieza redis](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/limpieza-redis.jpg)
+![limpieza redis](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/limpieza-redis.png)
 
 

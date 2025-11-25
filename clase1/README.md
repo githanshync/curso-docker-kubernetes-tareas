@@ -34,6 +34,7 @@ redis: imagen oficial
 
 ## Evidencia:
 Screenshot de docker ps mostrando el container corriendo:
+
 ![container corriendo](https://github.com/githanshync/curso-docker-kubernetes-tareas/blob/main/clase1/screenshots/docker-ps.jpg)
 
 Screenshot del navegador (si es httpd) o salida de docker logs (si es redis/mysql):
